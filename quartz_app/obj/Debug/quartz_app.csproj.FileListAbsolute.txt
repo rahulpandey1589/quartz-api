@@ -1,0 +1,17 @@
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\quartz_app.exe.config
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\quartz_app.exe
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\quartz_app.pdb
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\Quartz.dll
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\quartz_app.core.dll
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\quartz_app.db.dll
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\Topshelf.dll
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\quartz_app.core.pdb
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\quartz_app.db.pdb
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\Quartz.pdb
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\Quartz.xml
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\bin\Debug\Topshelf.xml
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\obj\Debug\quartz_app.csprojAssemblyReference.cache
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\obj\Debug\quartz_app.csproj.CoreCompileInputs.cache
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\obj\Debug\quartz_app.csproj.CopyComplete
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\obj\Debug\quartz_app.exe
+C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\obj\Debug\quartz_app.pdb
