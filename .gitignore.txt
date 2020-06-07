@@ -1,3 +1,3 @@
-quartz_app/bin/
-quartz_app/obj/
-quartz_app/quartz_app.db/
+/quartz_app/bin/
+/quartz_app/obj/
+/quartz_app/quartz_app.db/
