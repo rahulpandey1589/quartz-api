@@ -4,9 +4,3 @@ C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz_app\quartz_app.core\obj\Deb
 C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz_app\quartz_app.core\obj\Debug\quartz_app.core.csproj.CoreCompileInputs.cache
 C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz_app\quartz_app.core\obj\Debug\quartz_app.core.dll
 C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz_app\quartz_app.core\obj\Debug\quartz_app.core.pdb
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.core\bin\Debug\quartz_app.core.dll
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.core\bin\Debug\quartz_app.core.pdb
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.core\obj\Debug\quartz_app.core.csprojAssemblyReference.cache
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.core\obj\Debug\quartz_app.core.csproj.CoreCompileInputs.cache
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.core\obj\Debug\quartz_app.core.dll
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.core\obj\Debug\quartz_app.core.pdb

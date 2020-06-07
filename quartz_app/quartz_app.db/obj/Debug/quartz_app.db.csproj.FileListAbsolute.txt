@@ -1,9 +1,0 @@
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.db\bin\Debug\quartz_app.db.dll
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.db\bin\Debug\quartz_app.db.pdb
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.db\bin\Debug\quartz_app.core.dll
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.db\bin\Debug\quartz_app.core.pdb
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.db\obj\Debug\quartz_app.db.csprojAssemblyReference.cache
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.db\obj\Debug\quartz_app.db.csproj.CoreCompileInputs.cache
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.db\obj\Debug\quartz_app.db.csproj.CopyComplete
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.db\obj\Debug\quartz_app.db.dll
-C:\Users\hungryminds\hungryminds\Rahul\Quartz\quartz-api\quartz_app\quartz_app.db\obj\Debug\quartz_app.db.pdb
