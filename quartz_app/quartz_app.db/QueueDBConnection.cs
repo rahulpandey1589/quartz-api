@@ -33,7 +33,6 @@ namespace quartz_app.db
             }
             catch (System.Exception ex)
             {
-
                 throw;
             }
         }
