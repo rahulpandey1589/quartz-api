@@ -2,9 +2,6 @@
 using quartz_app.core;
 using quartz_app.db;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace quartz_app
@@ -14,10 +11,17 @@ namespace quartz_app
         public async Task Execute(IJobExecutionContext context)
         {
 
-            QueueDBConnection connection = new QueueDBConnection();
+           QueueDBConnection connection = new QueueDBConnection();
            IMessage message = connection.ReadItemFromQueue("dbo.PaymentOrderProcessingQueue");
+           if(message != null)
+            {
+                ProcessMessage(message);
+            }
+        }
 
-            Console.WriteLine("Executing Job At 10 seconds ");
+        private void ProcessMessage(IMessage message)
+        {
+            // custom logic to process the queue message
         }
     }
 }
